@@ -1,0 +1,25 @@
+{
+  "name": "week-10-challenge",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terahje/week-10-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terahje/week-10-challenge/issues"
+  },
+  "homepage": "https://github.com/terahje/week-10-challenge#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
