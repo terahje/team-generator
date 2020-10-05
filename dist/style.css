@@ -1,0 +1,66 @@
+body {
+    background-image: url("./assets/Images/team.jpg");
+    background-size: cover;
+}
+
+.card {
+    border-radius: 5px;
+    border-style: none;
+    box-shadow: 0px 5px 5px -5px #333, 6px 6px 5px -5px #333, 0px 0 5px -5px #333, 6px 0 5px -5px #333
+}
+
+.row {
+    justify-content: center;
+}
+
+.d-flex {
+    display: -ms-flexbox!important;
+    display: contents!important;
+}
+
+.jumbotron {
+    background: rgba(43, 43, 43, 0.5);
+    border-radius: 0;
+}
+
+.card-header {
+    background-color: black;
+}
+
+.card-body {
+    background-color: rgba(167, 167, 167, 0.15);
+}
+
+h1 {
+    color: white;
+    text-shadow: -5px 0  black, 0 1px  black, 0 -2px black;
+    font-size: 350%;
+    font-family: 'Zilla Slab', serif;
+}
+
+h2 {
+    color: white;
+    font-size: 140%;
+    font-family: 'Kanit', sans-serif;
+}
+
+.card {
+    margin: 10px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+h3 {
+    color:  rgba(0, 132, 255, 0.849);
+    text-shadow: white;
+}
+
+a {
+    color:rgb(3, 94, 179);
+}
+
+a:hover {
+    color: rgba(0, 132, 255, 0.3) ;
+}
