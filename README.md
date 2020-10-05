@@ -25,8 +25,9 @@ Generates Team webpage for software development company
 None at this moment
 
 ## Demo
-![}<iframe src="https://drive.google.com/file/d/1_x4ti47nHDqz5Lg8CFivAI4iQ1KR8EQX/preview" width="640" height="480"></iframe>
+![til](/assets/images/demo.gif)
 ![](/assets/images/screenshot.jpg)
+https://drive.google.com/file/d/1_x4ti47nHDqz5Lg8CFivAI4iQ1KR8EQX/view
 
 
 ## Tests
