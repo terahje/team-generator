@@ -23,6 +23,8 @@
     "jest": "^26.4.2"
   },
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "file-system": "^2.2.2",
+    "inquirer": "^7.3.3",
+    "path": "^0.12.7"
   }
 }
