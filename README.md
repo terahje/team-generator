@@ -36,7 +36,7 @@ None at this moment
 For further questions on this project or future collaboration contact me at:<br>
 * GitHub: terahje
 * Email: terahjequinn@gmail.com
-* Repository link: https://github.com/terahje/week-9-challenge
+* Repository link: https://github.com/terahje/week-10-challenge
 
 ## License
 ### This license is covered under the following license(s):
