@@ -1,4 +1,4 @@
-# Week-10-Challenge
+# Team Generator
 
 ![licenses](https://img.shields.io/badge/License-MIT_License-blue.svg)
 
@@ -37,7 +37,7 @@ https://drive.google.com/file/d/1_x4ti47nHDqz5Lg8CFivAI4iQ1KR8EQX/view
 For further questions on this project or future collaboration contact me at:<br>
 * GitHub: terahje
 * Email: terahjequinn@gmail.com
-* Repository link: https://github.com/terahje/week-10-challenge
+* Repository link: https://github.com/terahje/team-generator
 
 ## License
 ### This license is covered under the following license(s):
